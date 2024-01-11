@@ -1,0 +1,71 @@
+/* header */
+.imgLogo{
+    width: 150px;
+}
+
+.encabezado{
+    background-color: rgb(255, 255, 255);
+    border-top: 20px solid black;
+}
+
+.nav-link{
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    margin-left: 10px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+}
+
+
+
+/* productos */
+
+.celulares{
+    background-color: black;
+  color: rgb(255, 255, 255);
+   text-align: center;
+   text-transform: uppercase;
+   font-weight: bold;
+   padding: 16px
+
+}
+
+.celulares h2{
+    font-size: 3rem;
+}
+.btnRizzicel{
+    background-color: black;
+    color: white;
+}
+.card{
+    border: none;
+    margin-top: 20px;
+}
+
+.h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.lorem{
+    margin-top: 20px;
+
+}
+.footerp{
+    text-align: center;
+}
+
+.contacto{
+    text-align: center;
+}
+
+.btn-primary{
+    background-color: black;
+    color: white;
+}
+
+.text-center text-body-secondary{
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+}

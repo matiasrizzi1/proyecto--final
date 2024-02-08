@@ -1,0 +1,25 @@
+/* productos */
+
+.celulares {
+    background-color: $color-fondo;
+    color: $color-fuentessec;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 16px;
+  
+    h2 {
+      font-size: 3rem;
+    }
+  }
+  
+  .btnRizzicel {
+    @include anclas;
+  }
+  
+  .card {
+    border: none;
+    margin-top: 20px;
+    background: linear-gradient(to right, white, gray) ;
+  }
+  

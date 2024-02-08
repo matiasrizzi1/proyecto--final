@@ -1,0 +1,18 @@
+.contacto {
+    text-align: center;
+  }
+  
+  .btn-primary {
+   @include anclas;
+  }
+  
+  .text-center text-body-secondary {
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+  }
+
+  .bodycontact{
+    background: linear-gradient(to right, white, gray);
+  }
+  

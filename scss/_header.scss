@@ -1,0 +1,20 @@
+/*HEADER*/
+/* header */
+
+.imgLogo {
+    width: 150px;
+  }
+  
+  .encabezado {
+    background: linear-gradient(to right, white, gray);
+    border-top: 20px solid $color-fondo;
+  }
+  
+  .nav-link {
+    border-radius: 50px;
+    @include anclas;
+    margin-left: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+  }
+  
